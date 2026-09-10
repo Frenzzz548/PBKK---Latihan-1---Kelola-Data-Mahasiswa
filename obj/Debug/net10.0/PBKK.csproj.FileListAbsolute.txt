@@ -1,0 +1,14 @@
+C:\Kuliah\Semester 5\PBKK\bin\Debug\net10.0\PBKK.exe
+C:\Kuliah\Semester 5\PBKK\bin\Debug\net10.0\PBKK.deps.json
+C:\Kuliah\Semester 5\PBKK\bin\Debug\net10.0\PBKK.runtimeconfig.json
+C:\Kuliah\Semester 5\PBKK\bin\Debug\net10.0\PBKK.dll
+C:\Kuliah\Semester 5\PBKK\bin\Debug\net10.0\PBKK.pdb
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.AssemblyInfoInputs.cache
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.AssemblyInfo.cs
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.dll
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\refint\PBKK.dll
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.pdb
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\PBKK.genruntimeconfig.cache
+C:\Kuliah\Semester 5\PBKK\obj\Debug\net10.0\ref\PBKK.dll
