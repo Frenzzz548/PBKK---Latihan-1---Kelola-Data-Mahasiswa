@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Mahasiswa
 {
-    public string NRP { get; set; } = "";
+    public string Nrp { get; set; } = "";
     public string Nama { get; set; } = "";
     public string Jurusan { get; set; } = "";
 }
